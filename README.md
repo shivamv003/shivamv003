@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shivam Verma</h1>
 <h3 align="center">A passionate application and web developer</h3>
 
-- 🔭 I’m currently working on **Diet Recall App**
+- 🔭 I’m currently working on **Diet Recall App** and learning **Data Structure and Algorithm, React.js**
 
-- ⚒️ I've Worked on 3. **Weather app**
+- ⚒️ I've Worked on  **Weather app**
 
-- ⚒️ I've Worked on 1. **Percentage Calculator Website**
+- ⚒️ I've Worked on  **Percentage Calculator Website**
 
-- ⚒️ I've Worked on 2. **Clothes shopping app**
-
-- 🌱 I’m currently learning **Data Structure and Algorithm, React.js**
+- ⚒️ I've Worked on  **Clothes shopping app**
 
 - 📫 How to reach me **shivamv5162@gmail.com**
 
