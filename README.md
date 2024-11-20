@@ -12,6 +12,7 @@
 - 📫 How to reach me **shivamv5162@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1GglTSpydIKa7BExZSbPpYRQATQ2GT72t?usp=drive_link](https://drive.google.com/drive/folders/1GglTSpydIKa7BExZSbPpYRQATQ2GT72t?usp=drive_link)
+- [![An image of @shivamv003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivamv003)](https://holopin.io/@shivamv003)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
